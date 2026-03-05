@@ -1,20 +1,7 @@
-﻿SYSTÈME DE CHIFFREMENT - PHP
-=============================
+# LISTE DES PARTICIPANTS
+========================
+KAMBALE SYAYIPUMA JOEL
 
-Description:
-Application web de chiffrement/déchiffrement (César, Affine, Vigenère, Hill).
+KAVIRA KASEMBE MERRY
 
-Installation:
-1. Placez les fichiers dans un dossier de serveur web PHP.
-2. Lancez un serveur local PHP.
-3. Ouvrez index.php dans le navigateur.
-
-Fichiers:
-- index.php
-- cesar.php
-- affine.php
-- vigenere.php
-- hill.php
-- fonctions.php
-- style.css
-- README.txt
+KAHINDO? MUKENZI DIVINE
